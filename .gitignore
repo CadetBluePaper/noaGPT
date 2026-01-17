@@ -1,0 +1,31 @@
+#Python Virtual Enviorment
+.venv/
+venv/
+env/
+ENV/
+
+#Python Cache
+__pycache__/
+*.pyc
+*.pyo 
+
+#Pytorch
+*.pt
+*.pth
+*.pkl
+
+#Datasets
+data/
+datasets/
+openwebtext/
+*.csv
+*.json
+*.jsonl
+*.txt
+
+#vsCode
+.vscode/
+
+#Junk
+.DS_Store
+Thumbs.db
