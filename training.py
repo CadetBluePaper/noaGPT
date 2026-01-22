@@ -4,15 +4,6 @@ import pickle
 import random
 import time
 
-#TO THE STUPID FUCKER IN THE MORNING, 
-#Torch is giving an error here because it is not isntalled in the refactor branch
-#Before trying to install the dependecies like a dumbass try and figure out if there is a way
-#to run this code with different dependencies not on the refactor branch
-#Other than this I think this is the only error, good luck dumb fuck!
-
-#Edit: Just realized I'm gonna delete the branch right after I commit anyway so I might aswell
-#just install the dependeices, this might get annoying having to reinstal everytime throuugh, so
-#I might write a script or see if there is something with git that can help me with this shit
 import torch 
 import torch.nn as nn
 from torch.nn import functional as F
